@@ -1,2 +1,3 @@
 Welcome to git
-4 crunck in readme
+This is just a test of git usage on linux cmd!
+
